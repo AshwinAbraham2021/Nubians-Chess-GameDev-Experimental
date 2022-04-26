@@ -9,3 +9,5 @@ We have implemented three variations of chess - the standard variant, Fischer Ra
 
 We have implemented all the FIDE Rules of Chess, including Castling and En Passant.
 On the standard variant and fischer variant, open the console to see the moves in algebraic chess notation!
+
+This version also adds partial support for playing against the computer.
